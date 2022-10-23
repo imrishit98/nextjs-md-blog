@@ -11,7 +11,7 @@
     "amazon-pa-api50": "^0.2.0",
     "amazon-product-api": "^0.4.4",
     "apac": "^3.0.2",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
